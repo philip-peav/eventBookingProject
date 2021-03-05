@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "philip",
+        "MONGO_PASSWORD": "Rraeyx74",
+        "MONGO_DB": "productivity-project"
+    }
+}
